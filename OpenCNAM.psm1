@@ -69,3 +69,5 @@ function Get-OpenCNAMResult
 
     } # End else
 } # End function
+
+#test
